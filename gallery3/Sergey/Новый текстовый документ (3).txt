@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Моя первая веб-страница</title>
+	<style>
+	    p {
+	        color: dodgerblue;
+	        font-size: 30px;
+	        font-family: 'Lobster', cursive;
+	    }
+
+	    h1 {
+	    	color: dodgerblue;
+	    	font-size:32px
+	    	font-family: 'Lobster', cursive;}
+	    	div {
+	    		width:70%
+	    		margin: auto;
+	    }	
+	</style>
+	<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+</head>
+<body>
+    <div>
+<h1>Сюжет CS:GO</h1>
+	<p>Привет, сейчас расскажу сюжет CS:GO
+<p>Начиная
+с 16 января с открытием малых региональных турниров СНГ и стран ЕС командам предоставляется  
+последний шанс попасть на мейджор-турнир IEM Katowice 2019. Две лучшие команды из Европы, СНГ, стран Америки и Азии станут новыми претендентами на турнире IEM Katowice.<p>
+<hl> Турниры CS:GO<hl>
+<p>По окончании малых турниров четыре команды, занявшие третье место в каждой из соответствующих сеток, столкнутся лицом к лицу в дополнительных матчах за шанс стать двумя новыми претендентами. Смотрите матчи в прямом эфире на Twitch организации<p>
+    	<img src="2.jpg" alt="">
+    	<br>
+        <a href="Моя вторая веб-страница"><img src="2.jpg" alt=""></a>
+    </div>
+
+</body>
+</html>
